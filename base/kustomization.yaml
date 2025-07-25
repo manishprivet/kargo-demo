@@ -5,4 +5,4 @@ resources:
 - service.yaml
 images:
 - name: public.ecr.aws/nginx/nginx
-  newTag: 1.29.0
+  newTag: 1.27.5
